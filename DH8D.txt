@@ -1,0 +1,102 @@
+ELECTRICAL INIT:
+Battery Master - ON
+Main Batt - ON
+Aux Batt - ON
+STBY Batt - ON
+Main Bus Tie - ON
+ELT - Test
+
+SYSTEMS INIT:
+Right MFD, ED - ON
+APU/Engine Fire, Smoke Detectors - Test
+APU - Start
+No Smoking - ON
+Seat Belts - ON
+Emergency Lights - ARM
+POS Lights - ON
+QNH - Set
+
+ICING PANEL:
+Pitot/Static Heat - ON
+Windshield - NORM
+Pilot-side window heat - ON
+
+AIR CONDITIONING PANEL:
+Recirculation fan - ON
+
+UNS:
+Displays - ON
+UNS - ON
+Radios - ON
+UNS - Accept
+UNS - Enter Flight Plan
+UNS - Enter Fuel
+UNS2 - Fill from UNS1
+
+TESTS:
+Tests - TEST
+GPWS - TEST
+Autofeather - TEST
+Anti Skid - TEST
+
+AUTOPILOT:
+Altitude - SET
+NAV source - FMS1
+Altitude mode - ALT SEL
+Spoilers - TAXI
+
+TAXI:
+Red Beacon - ON
+Engines - START
+Prop - 1020
+Taxi Lights - ON
+APU - Off
+Main Bus Tie - OFF
+Bleed Selector - NORM
+Bleeds - ON
+Flaps - 5
+NWS - On
+
+TAKEOFF:
+Control Lock - RELEASED
+AUX pumps - ON
+Autofeather - ON
+Hydraulic PTU - ON
+Lights - SET for takeoff
+Throttles - Flight Low
+Positive V/S - Gear
+500 feet AGL - Flaps
+800 feet AGL - Prop 900
+210KIAS - Yaw Damper / Autopilot ON, NAV, IAS 225
+
+10,000 FEET:
+Seatbelt signs - OFF
+Landing Lights - OFF
+
+TRANS ALT/18,000 FEET:
+QNH - STD
+
+CRUISE:
+Prop - 850
+Throttle - Flight
+
+DESCENT PREP:
+VNAV - 1000 fpm
+FPL - Insert altitude restriction
+Approach CRS, ALT, and FREQ - SET
+Alt Sel - PRESSED
+When close to TOD - press VNAV
+
+DESCENT:
+Prop RPM - 900
+18,000 Feet - Altimiter airfield QNH
+GPWS Flaps - 15
+10,000 Feet - Landing lights and signs
+
+LANDING:
+Auxillary Fuel/PTU Pumps - ON
+Bleed Air - OFF
+NAV Source - ILS1
+Approach - LOC/GS
+Landing Gear - Down
+Flaps - Down
