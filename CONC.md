@@ -8,3 +8,8 @@ EPU - ON
 
 OVERHEAD PANEL
 Nav light - ON
+
+ENGINE START
+3, 2, 1, 4
+Engine starter - ON
+N1 20% - Fuel ON
